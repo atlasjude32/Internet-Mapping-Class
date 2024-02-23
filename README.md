@@ -6,4 +6,4 @@ Repository for mapping assignments
   Test - Ashley assignment</a> by Jude Keefe (<a href="https://codepen.io/atlasjude32">@atlasjude32</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"> </script>
